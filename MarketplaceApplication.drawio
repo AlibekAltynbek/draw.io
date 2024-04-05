@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T16:17:44.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="W-Unw-d_kPwnxfUO4FZp" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T16:21:20.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="soU_rUCPZuxtPI0Niz8O" version="24.2.2" type="github">
   <diagram name="Page-1" id="4DVArmQ2FKZMZtiGT3NC">
     <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="2RQph0JpIhb9pEtwq0Xm-8" value="Store Application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2RQph0JpIhb9pEtwq0Xm-10" value="Payment Application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
