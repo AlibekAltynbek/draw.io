@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T08:14:37.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="BEvbeFQuqj4qexiMj7YY" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T08:15:53.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="OOrF4LZBnvVV4DGgNhR_" version="24.2.5" type="github">
   <diagram name="Page-1" id="4DVArmQ2FKZMZtiGT3NC">
-    <mxGraphModel dx="1569" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="741" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9ykSHjA-KUcAoBF8mec--2" value="Web Application" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="70" y="340" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9ykSHjA-KUcAoBF8mec--70" value="SvelteJS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9ykSHjA-KUcAoBF8mec--2">
+          <mxGeometry x="70" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="9ykSHjA-KUcAoBF8mec--3" value="Mobile Application" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="70" y="430" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9ykSHjA-KUcAoBF8mec--71" value="&lt;div&gt;React Native&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9ykSHjA-KUcAoBF8mec--3">
+          <mxGeometry x="60" y="35" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ykSHjA-KUcAoBF8mec--7" value="&lt;div&gt;API&lt;/div&gt;&lt;div&gt;GATEWAY&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="270" width="80" height="330" as="geometry" />
@@ -210,6 +216,9 @@
         </mxCell>
         <mxCell id="9ykSHjA-KUcAoBF8mec--68" value="Static Content" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="9ykSHjA-KUcAoBF8mec--67">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ykSHjA-KUcAoBF8mec--69" value="OAuth2 &amp;amp; OpenId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="88" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
