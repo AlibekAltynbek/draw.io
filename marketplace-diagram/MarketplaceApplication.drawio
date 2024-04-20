@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T07:48:43.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="v075C0pGzdXLrxspahVQ" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T07:49:54.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="xEJxJPQQYRWwClajs9Na" version="24.2.5" type="github">
   <diagram name="Page-1" id="4DVArmQ2FKZMZtiGT3NC">
-    <mxGraphModel dx="749" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,10 +109,10 @@
         <mxCell id="9ykSHjA-KUcAoBF8mec--37" value="&lt;div&gt;Response&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="9ykSHjA-KUcAoBF8mec--36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ykSHjA-KUcAoBF8mec--45" value="User Management Service" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="9ykSHjA-KUcAoBF8mec--45" value="Store Management Service" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="720" y="360" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ykSHjA-KUcAoBF8mec--46" value="UMS DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="9ykSHjA-KUcAoBF8mec--46" value="SMS DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1050" y="350" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9ykSHjA-KUcAoBF8mec--47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -139,10 +139,10 @@
         <mxCell id="9ykSHjA-KUcAoBF8mec--51" value="&lt;div&gt;Response&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="9ykSHjA-KUcAoBF8mec--50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ykSHjA-KUcAoBF8mec--52" value="User Management Service" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="9ykSHjA-KUcAoBF8mec--52" value="Product Management Service" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="720" y="450" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ykSHjA-KUcAoBF8mec--53" value="UMS DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="9ykSHjA-KUcAoBF8mec--53" value="PMS DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1050" y="440" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9ykSHjA-KUcAoBF8mec--54" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -169,10 +169,10 @@
         <mxCell id="9ykSHjA-KUcAoBF8mec--58" value="&lt;div&gt;Response&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="9ykSHjA-KUcAoBF8mec--57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ykSHjA-KUcAoBF8mec--59" value="User Management Service" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="9ykSHjA-KUcAoBF8mec--59" value="Order Management Service" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="720" y="540" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ykSHjA-KUcAoBF8mec--60" value="UMS DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="9ykSHjA-KUcAoBF8mec--60" value="OMS DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1050" y="530" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9ykSHjA-KUcAoBF8mec--61" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
