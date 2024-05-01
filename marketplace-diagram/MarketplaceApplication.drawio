@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T13:00:46.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="OYsswDLGyfQzsULB1Dvx" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T13:45:09.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="uWATFFW-6mWi8yyvl90x" version="24.2.5" type="github">
   <diagram name="Page-1" id="4DVArmQ2FKZMZtiGT3NC">
     <mxGraphModel dx="1647" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -205,7 +205,7 @@
         <mxCell id="9ykSHjA-KUcAoBF8mec--65" value="&lt;div&gt;Response&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="9ykSHjA-KUcAoBF8mec--64" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ykSHjA-KUcAoBF8mec--66" value="S3 AWS Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="9ykSHjA-KUcAoBF8mec--66" value="AWS S3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="406.25" y="190" width="97.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="9ykSHjA-KUcAoBF8mec--67" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
